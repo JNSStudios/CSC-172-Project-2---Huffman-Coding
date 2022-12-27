@@ -6,8 +6,8 @@ These files are for Project 2: Huffman Coding. This project contains the followi
 - README                this file
 
 I recieved help from and/or assisted the following people:
-- Krish Jain (kjain7@u.rochester.edu): I assisted him in writing various algorithms for his program and he gave me some pointers for my own implementation.
--  Zach (@thechonkypenguin#4934 on the CSUG Discord server) assisted me with creating the Comparator for HuffmanNode. The Comparator sorts the Nodes by their Frequency in ascending order, making the PriorityQueue they are placed in a min-heap.
+- Krish J.: I assisted him in writing various algorithms for his program and he gave me some pointers for my own implementation.
+-  Zach (on the Discord server) assisted me with creating the Comparator for HuffmanNode. The Comparator sorts the Nodes by their Frequency in ascending order, making the PriorityQueue they are placed in a min-heap.
 
 HuffmanSubmit.java imports the following packages and Java ADTs,
 - File
